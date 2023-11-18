@@ -336,7 +336,7 @@ pure-eval==0.2.2
     # via stack-data
 pycparser==2.21
     # via cffi
-pydantic==2.4.2
+pydantic==1.10.5
     # via
     #   fastapi
     #   ml-base
