@@ -143,7 +143,7 @@ toolz==0.12.0
     #   partd
 tornado==6.3.3
     # via distributed
-tpot==0.12.1
+tpot==0.11.7
     # via -r service_requirements.in
 tqdm==4.66.1
     # via
